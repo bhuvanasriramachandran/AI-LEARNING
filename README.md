@@ -149,13 +149,7 @@ Contributions are welcome. Please fork the repository and submit a pull request 
 ## Contact
 ```
 
-**Developer:** Aswini SM
 
-* GitHub: [Aswini1008](https://github.com/Aswini1008)
-* LinkedIn: [Aswini SM](https://www.linkedin.com/in/aswini-sm-97292629a)
-* Email: [smaswini006@gmail.com](mailto:smaswini006@gmail.com)
-
----
 
 ```markdown
 ## Vision
